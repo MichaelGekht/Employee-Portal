@@ -44,5 +44,5 @@ Since the situation is individual for everyone, write to Pavel Emelyanov to find
 **Any questions? Email us 👇🏻**
 
 **Polina Molchanova- slack, pmolchanova@gehtsoft.com**
-***
+>
 **Pavel Emelyanov- slack, pemelyanov@gehtsoft.com**
