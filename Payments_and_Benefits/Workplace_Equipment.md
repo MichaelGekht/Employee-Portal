@@ -31,7 +31,7 @@ Step 2: Upgrade your workstation
 >
 Step 3: Send a check with proof of purchase to Pavel Emelyanov. 
 >
-Step 4: Wait for settlement 
+Step 4: Wait for reimbursement
 >
 Reimbursement will come with your paycheck on the last day of the month.
 
