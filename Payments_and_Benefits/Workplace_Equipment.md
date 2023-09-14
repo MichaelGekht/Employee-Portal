@@ -1,4 +1,4 @@
-#Compensation for workplace equipment
+# Compensation for workplace equipment
 
 В компании мы понимаем как важно иметь свое комфортное рабочее место, исправную технику, поэтому у нас действует система компенсаций. 
 
