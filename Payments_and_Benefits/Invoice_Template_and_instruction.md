@@ -9,4 +9,4 @@ The fields marked in green remain untouched.
 ![Step 3](https://github.com/AnaTafi/images/blob/main/222222.PNG)
 
 >
-The completed invoice must be emailed by the 26th of the current month. Send it to [Pavel Emelyanov](mailto:pemelyanov@gehtsoft.com)
+## The completed invoice must be emailed by the 26th of the current month. Send it to [Pavel Emelyanov](mailto:pemelyanov@gehtsoft.com)
