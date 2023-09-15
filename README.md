@@ -63,18 +63,20 @@ emotions outside of work.
 **E. We do not discuss politics.** This is not an appropriate topic to discuss at work. 
 
 ## Acceptable reaction speed:
-1. 24 Hours: Maximum amount of time allowed for:
+**24 Hours:** Maximum amount of time allowed for:
 >
-A. Confirmation that the information about a problem or task has been received.
-B. Assignment and acceptance of decision/execution responsibilities.
-C. Establishment of the deadline by which the result is promised if such has not already 
+Confirmation that the information about a problem or task has been received.
+>
+Assignment and acceptance of decision/execution responsibilities.
+>
+Establishment of the deadline by which the result is promised if such has not already 
 been assigned.
 >
-2. 2-3 Days: The time within which we expect initial task results or the start of tangible correction of a problematic situation.
+**2-3 Days:** The time within which we expect initial task results or the start of tangible correction of a problematic situation.
 >
-3. 1 Week: The maximum time allotted for a typical company task.
+**1 Week:** The maximum time allotted for a typical company task.
 >
-4. 1 Month: Time until the ultimate solution of the problem, or until the delivery of the final result.
+**1 Month:** Time until the ultimate solution of the problem, or until the delivery of the final result.
 The maximum time allowed for notification of the emergence of a problem is within 24 hours of the
 discovery of a problem, no later than 1/5 of the time delegated to work.
 
