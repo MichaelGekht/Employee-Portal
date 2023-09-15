@@ -14,7 +14,7 @@ When the person passes the probationary period.
 The bonus will be credited to your card along with your salary on the last day of the month.
 
 
-**Any questions? Write us👇🏻.**
+**Any questions? Write us👇🏻**
 
 Polina Molchanova- slack, pmolchanova@gehtsoft.com
 >
