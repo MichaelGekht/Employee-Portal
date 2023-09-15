@@ -41,7 +41,7 @@ When you relocate to another region by transfer - the company will pay your movi
 Important: you must have a probationary period.
 Since the situation is individual for everyone, write to Pavel Emelyanov to find out how it will work in your case. 
 
-**Any questions? Email us 👇🏻**
+**Any questions? Write us 👇🏻**
 
 **Polina Molchanova- slack, pmolchanova@gehtsoft.com**
 >
