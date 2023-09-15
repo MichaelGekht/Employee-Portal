@@ -20,7 +20,7 @@ To find out how many vacation days you have left - write to Polina Molchanova
 We understand that bad health comes unexpectedly, so don't forget to inform your team and HR about your sick leave. 
 If you want to take a Day off, try to plan and give advance notice (preferably 3-4 days minimum). 
 
-**Any questions? Email us 👇🏻.**
+**Any questions? Write us 👇🏻.**
 
 Polina Molchanova- slack, pmolchanova@gehtsoft.com
 >
