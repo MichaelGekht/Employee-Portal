@@ -25,7 +25,7 @@ More opportunities (can make different and more complex choices, can work in oth
 Fulfillment of continuous education norms.
 
 
-**Any questions? Email us👇🏻**
+**Any questions? Write us👇🏻**
 
 Polina Molchanova- slack, pmolchanova@gehtsoft.com
 >
