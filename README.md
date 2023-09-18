@@ -7,32 +7,32 @@ By understanding and applying our principles, we will be able to better understa
 >
 [Our vision](https://github.com/gehtsoft-usa/ManagementDocuments/blob/main/Vision/gehtsoft2023.md)
 >
-[EthicCode](https://github.com/gehtsoft-usa/ManagementDocuments/blob/main/Behavior/EthicCode.md)
+[Ethic Code](https://github.com/gehtsoft-usa/ManagementDocuments/blob/main/Behavior/EthicCode.md)
 
 ## Our Work Principles:
-•We do not steal time or resources. We provide feedback. We speak openly. We set clear goals. 
+• We do not steal time or resources. We provide feedback. We speak openly. We set clear goals. 
 We do not look for and do not accept excuses; we find ways to achieve our goals.
 >
-•We do not complain. Especially in front of our customers.
+• We do not complain. Especially in front of our customers.
 >
-•We offer solutions. We take responsibility. We are held accountable for the consequences of our 
+• We offer solutions. We take responsibility. We are held accountable for the consequences of our 
 decisions.
 >
-•We do amazing work. We do not settle for less.
+• We do amazing work. We do not settle for less.
 
 ## Our Ways of Work:
-•We take pride in our adherence to the Agile philosophy, and we successfully apply the Scrum 
+• We take pride in our adherence to the Agile philosophy, and we successfully apply the Scrum 
 framework in our practice. This approach lets us achieve excellent results in the conditions of a 
 rapidly changing market. [More about Scrum you can read here](https://github.com/gehtsoft-usa/ManagementDocuments/tree/main/ProcessStandards/ScrumArtifacts) 
 >
-•We hold both ourselves and our team members to a high standard. We support continuous 
+• We hold both ourselves and our team members to a high standard. We support continuous 
 learning and every member of our team must upskill on an annual basis.
 >
-•Our company adheres to established technical standards and common rules of development, 
+• Our company adheres to established technical standards and common rules of development, 
 testing, integration, and DevOps. These standards provide us with a unified approach to our 
 work and help us achieve high product quality. [More about technical standards you can read here](https://github.com/gehtsoft-usa/ManagementDocuments/tree/main/TechnicalStandards)
 >
-•Quality is the product’s capability to satisfy the client’s requirements and expectations. It is the 
+• Quality is the product’s capability to satisfy the client’s requirements and expectations. It is the 
 duty of every team member to provide high product quality. Low quality is unacceptable. Our 
 principle is: “The product is not considered to be high quality until we have proof of said 
 quality.” This means that every stage of the development and testing processes must be 
