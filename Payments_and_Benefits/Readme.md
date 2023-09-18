@@ -1,6 +1,6 @@
 # This section contains information on benefits for the company's employees. 
 
-**You'll learn how**
+**You'll learn:**
 - how to take a day off, vacation, or sick leave
 >
 - how to receive compensation for workplace arrangement and equipment upgrades
