@@ -6,6 +6,8 @@ By understanding and applying our principles, we will be able to better understa
 [Our mission](https://github.com/gehtsoft-usa/ManagementDocuments/blob/main/Vision/Mission.md)
 >
 [Our vision](https://github.com/gehtsoft-usa/ManagementDocuments/blob/main/Vision/gehtsoft2023.md)
+>
+>[EthicCode](https://github.com/gehtsoft-usa/ManagementDocuments/blob/main/Behavior/EthicCode.md)
 
 ## Our Work Principles:
 •We do not steal time or resources. We provide feedback. We speak openly. We set clear goals. 
