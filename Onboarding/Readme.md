@@ -4,3 +4,5 @@ In dynamic growth there is a big risk of losing the quality of work and losing t
 
 Onboarding is the first process you immerse yourself in, as well as a tool to synchronize the company, the team, and the new person in the team. 
 The quality of your training, your speed of getting into the role, and your inclusion in the overall context directly affect the overall results of the company.
+
+**Your active onboarding will last six months. At all stages you are accompanied by a mentor and HR, don't be afraid to ask them anything and never be afraid to take responsibility.**
