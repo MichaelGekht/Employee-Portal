@@ -47,7 +47,7 @@ What we will talk about:**
 - Questions from your side
 
 ____
-## End of probation period
+## End of probationary period
 
 We will have a meeting to close your probationary period. At the Meeting, we will discuss:
 - Results
