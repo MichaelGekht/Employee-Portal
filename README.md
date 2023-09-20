@@ -46,23 +46,21 @@ are optional.
 ## Our company follows the principles of effective, open communication, the basis of which are: 
 • Mutual respect.
 >
-• Adherence to ethical norms  and communication code :
->
-**A. We speak politely and honestly.** If something is going wrong, the situation must be dis-
+**We speak politely and honestly.** If something is going wrong, the situation must be dis-
 closed in a professional, open form. When a problematic situation comes up, our main 
 goal is to establish clarity and correct it.
 >
-**B. We speak constructively.** We steer discussions in the direction that will help us achieve 
+**We speak constructively.** We steer discussions in the direction that will help us achieve 
 our goals and will lead us to clear conclusions and decisions.  
 >
-**C. We react to our colleagues’ messages, especially to urgent messages and questions.** If 
+**We react to our colleagues’ messages, especially to urgent messages and questions.** If 
 we have nothing to say on the matter at hand, we show respect and awareness, leaving a 
 reaction to the message.
 >
-**D. We do not complain.** We approach discussions in a stable emotional condition, leaving 
+**We do not complain.** We approach discussions in a stable emotional condition, leaving 
 emotions outside of work.
 >
-**E. We do not discuss politics.** This is not an appropriate topic to discuss at work. 
+**We do not discuss politics.** This is not an appropriate topic to discuss at work. 
 
 ## Acceptable reaction speed:
 **24 Hours:** Maximum amount of time allowed for:
