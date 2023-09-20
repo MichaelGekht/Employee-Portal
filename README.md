@@ -44,7 +44,8 @@ accompanied by objective quality checks and confirmations. [More about quality a
 are optional.
 
 ## Our company follows the principles of effective, open communication, the basis of which are: 
-• Mutual respect.
+>
+**Mutual respect.**
 >
 **We speak politely and honestly.** If something is going wrong, the situation must be dis-
 closed in a professional, open form. When a problematic situation comes up, our main 
