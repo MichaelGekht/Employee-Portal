@@ -83,14 +83,14 @@ The maximum time allowed for notification of the emergence of a problem is withi
 discovery of a problem, no later than 1/5 of the time delegated to work.
 
 ## Several important facts that you must know:
-1. **We value results, not effort.** Working for the sake of being busy, but without achieving results, 
+• **We value results, not effort.** Working for the sake of being busy, but without achieving results, 
 is a waste of time, effort, team potential, budget, and our customers’ trust. You can read why
 “I tried” is bad, and what needs to be done when faced with such a situation [here](https://github.com/gehtsoft-usa/ManagementDocuments/blob/main/Behavior/WhyITriedIsBad.md)
 >
-2. **The company has a concrete position:** To hide information that describes the real state of 
+• **The company has a concrete position:** To hide information that describes the real state of 
 things, and to refuse to admit that things are not going as they should, is to deprive everyone
 of the opportunity to fix the situation as early as possible and minimize the damages.  You can 
 read about uncomfortable information and how it must be delivered [here](https://github.com/gehtsoft-usa/ManagementDocuments/blob/main/Behavior/Whistleblowing.md)
 >
-3. **If there is something you don’t know** – it is your responsibility to find the necessary information. If you could not find it, ask someone who might know. The same goes for feedback 
+• **If there is something you don’t know** – it is your responsibility to find the necessary information. If you could not find it, ask someone who might know. The same goes for feedback 
 – it is your responsibility to both provide and request it. [More about feedback](https://github.com/gehtsoft-usa/ManagementDocuments/blob/main/Behavior/Feedback.md) 
