@@ -3,6 +3,9 @@
 We will go through each line, you can see comments that will tell you in detail what to enter and where to enter it. 
 All fields are marked with a comment you need to fill in. 
 The fields marked in green remain untouched.
+
+Here is the template of the invoice, you can download it
+![Invoice](https://github.com/gehtsoft-usa/forimages/blob/main/Invoice%20Template.docx)
 >
 ![Step 1](https://github.com/gehtsoft-usa/forimages/blob/main/invoice1.PNG)
 ![Step 2](https://github.com/gehtsoft-usa/forimages/blob/main/11111.PNG)
