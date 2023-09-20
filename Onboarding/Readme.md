@@ -1,4 +1,4 @@
-# Gehtsoft is actively growing and developing. 
+# Gehtsoft is actively growing and developing
 
 In dynamic growth there is a big risk of losing the quality of work and losing the corporate culture, that's why synchronization of the whole team, at every stage of development, is so important. 
 
