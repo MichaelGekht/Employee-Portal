@@ -39,14 +39,14 @@ quality.” This means that every stage of the development and testing processes
 accompanied by objective quality checks and confirmations. [More about quality assurance you can read here](https://github.com/gehtsoft-usa/ManagementDocuments/blob/main/ProcessStandards/QualityAssurance.md) 
 
 ## Internal Communication
-1. Slack: Add full name and last name in English. Specify your role and add your phone number.
-2. Github: Add your name and last name to the account. Profile picture and other information 
+• Slack: Add full name and last name in English. Specify your role and add your phone number.
+• Github: Add your name and last name to the account. Profile picture and other information 
 are optional.
 
 ## Our company follows the principles of effective, open communication, the basis of which are: 
-1. Mutual respect.
+• Mutual respect.
 >
-2. Adherence to ethical norms  and communication code :
+• Adherence to ethical norms  and communication code :
 >
 **A. We speak politely and honestly.** If something is going wrong, the situation must be dis-
 closed in a professional, open form. When a problematic situation comes up, our main 
